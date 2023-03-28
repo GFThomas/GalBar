@@ -28,3 +28,8 @@ An example of the type of potfile used by GalBar and of the file where are defin
 To call GalBar in GyrfalcON and in compatible tools, you should write accname=GalBar.
 
 Note here that to use the mkorbit tools from NEMO with the GalBar potential, you should enter potname=GalBar, and you should imperativelly use the leapfrog mode.
+
+
+## NOTES
+
+The phases option to make spiral arms is not implemented yet.
